@@ -6,7 +6,7 @@
 1. **Download the files**:
    - Clone this repository:
      ```bash
-     git clone https://github.com/your-username/2048-classic.git
+     git clone https://github.com/Giacomo-Marconi/2048-classic.git
      cd 2048-classic
      ```
    - Or download the ZIP and extract it.
