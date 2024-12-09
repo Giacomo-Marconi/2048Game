@@ -7,7 +7,7 @@
    - Clone this repository:
      ```bash
      git clone https://github.com/Giacomo-Marconi/2048Game
-     cd 2048-classic
+     cd 2048Game
      ```
    - Or download the ZIP and extract it.
 2. **Open the game**:
@@ -18,7 +18,7 @@
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you like!
+This project is licensed under the [MIT License. Feel free to use, modify, and distribute it as you like!
 
 ---
 
